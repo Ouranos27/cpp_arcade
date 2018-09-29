@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp_arcade.dir/lib/sfml/sfml.cpp.o CMakeFiles/cpp_arcade.dir/src/main.cpp.o CMakeFiles/cpp_arcade.dir/src/handler.cpp.o CMakeFiles/cpp_arcade.dir/games/pacman/pacman.cpp.o CMakeFiles/cpp_arcade.dir/lib/ncurses/ncurses.cpp.o CMakeFiles/cpp_arcade.dir/lib/sdl/sdl.cpp.o  -o cpp_arcade 

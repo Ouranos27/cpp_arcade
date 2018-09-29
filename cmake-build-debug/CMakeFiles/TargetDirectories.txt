@@ -1,0 +1,3 @@
+/home/ouranos27/my_desktop/TEK2/CPP/cpp_arcade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ouranos27/my_desktop/TEK2/CPP/cpp_arcade/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ouranos27/my_desktop/TEK2/CPP/cpp_arcade/cmake-build-debug/CMakeFiles/cpp_arcade.dir
